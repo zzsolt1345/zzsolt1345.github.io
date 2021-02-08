@@ -1,0 +1,16 @@
+h1 { color: blue;
+
+}
+h3 {
+    color:rgba(100, 102, 256, 0.5);
+    font-size: x-large;
+}
+p {
+    color: crimson;
+    font-size: 24px;
+}
+a,li,h6 {
+    color: rgba(71, 200, 10, 0.32);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
