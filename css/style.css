@@ -22,3 +22,8 @@ th {
 td {
     color: darkred;
 }
+img {
+    width: 120px;
+    height: 120px;
+    margin: 20px;
+}
