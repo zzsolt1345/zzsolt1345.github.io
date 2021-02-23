@@ -27,5 +27,14 @@ td {
 img {
     width: 120px;
     height: 120px;
+    padding: 5px;
+    background-color:rgba(100, 102, 256, 0.5);
     margin: 20px;
+    box-shadow: black;
+}
+.img-div{
+    background-color: burlywood;
+}
+.ligth{
+    background-color: cadetblue;
 }
