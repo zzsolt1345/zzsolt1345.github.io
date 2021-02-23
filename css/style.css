@@ -9,7 +9,7 @@ p {
     color: crimson;
     font-size: 24px;
     text-align: justify;
-    text-transform: unset;
+
 }
 a,li,h6 {
     color: rgba(71, 200, 10, 0.32);
@@ -22,7 +22,7 @@ th {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 td {
-    color: darkred;
+    color: rgb(0, 139, 42);
 }
 img {
     width: 120px;
